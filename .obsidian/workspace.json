@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "18248f0a4c7085aa",
+        "id": "a9f069ff68753af7",
         "type": "tabs",
         "children": [
           {
-            "id": "203a67e668ca85c3",
+            "id": "038e862c980a48dd",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,16 +16,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Calendar/2023-12-25.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": ".obsidian/core-plugins-migration.json",
+                "staged": false
               }
             }
           }
@@ -136,8 +140,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,7 +189,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/2023-12-25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,7 +212,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.5168584698559424,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -229,9 +231,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Calendar/2023-12-25.md"
-              }
+              "state": {}
             }
           },
           {
@@ -250,8 +250,26 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "dd5a0b1b57be96a2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "cc261747cbab30f2",
@@ -272,7 +290,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/2023-12-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,7 +315,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/2023-12-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +324,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 549
+    "width": 321
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,12 +336,18 @@
       "periodic-notes:Open today's daily note": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "31b3e2576b134863",
+  "active": "038e862c980a48dd",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": false
+  },
   "lastOpenFiles": [
     "Home.md",
+    "Spaces/Project 1/Example 1.md",
+    "Extras/Drawings/Drawing 2023-12-25.excalidraw.md",
     "Atlas/Finance MOC.md",
     "Calendar/2023-12-25.md",
     "Timestamps/2023-12-w50.md",
@@ -349,9 +371,7 @@
     "Cards/Bill Russell.md",
     "Extras/Templates/Daily Note.md",
     "Extras/Templates/Meeting.md",
-    "Extras/Templates/MoC.md",
     "Timestamps",
-    "Atlas/Notebox.md",
     "Spaces/Touch Typing",
     "Extras/Drawings/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
     "Extras/Drawings/Scripts/Downloaded/Set Grid.svg",

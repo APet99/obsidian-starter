@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-12-25",
-      "path": "Calendar/2023-12-25.md"
-    },
-    {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "Example 1",
+      "path": "Spaces/Project 1/Example 1.md"
+    },
+    {
+      "basename": "Drawing 2023-12-25.excalidraw",
+      "path": "Extras/Drawings/Drawing 2023-12-25.excalidraw.md"
+    },
+    {
+      "basename": "2023-12-25",
+      "path": "Calendar/2023-12-25.md"
     },
     {
       "basename": "Week 1 - Improvements",
