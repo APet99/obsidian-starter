@@ -1,0 +1,52 @@
+{
+  "installedVersion": "1.0.0-beta1",
+  "activeCalendarSet": "Daily Notes",
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": true,
+  "calendarSets": [
+    {
+      "day": {
+        "format": "YYYY-MM-DD",
+        "templatePath": "Extras/Templates/Daily Note.md",
+        "folder": "Calendar",
+        "enabled": true
+      },
+      "week": {},
+      "month": {},
+      "quarter": {},
+      "year": {},
+      "id": "Daily Notes",
+      "ctime": "2023-07-10T18:55:52-07:00"
+    }
+  ],
+  "enableTimelineComplication": true,
+  "daily": {
+    "folder": "Calendar/2022",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "YYYY-MM-DD-[w]ww",
+    "folder": "Calendar/2022",
+    "template": "",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": "Calendar/2022/Monthly",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": "",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": "",
+    "enabled": true
+  }
+}

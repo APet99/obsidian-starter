@@ -1,0 +1,17 @@
+{
+  "versionValue": "0.1.5",
+  "startupBackupStatus": true,
+  "lifecycleValue": "14",
+  "backupsPerDayValue": "5",
+  "winSavePathValue": "/Users/apet",
+  "unixSavePathValue": "/Users/apet/obsidian-backup",
+  "fileNameFormatValue": "apet-obsidian-backup-%Y_%m_%d-%H_%M_%S",
+  "intervalBackupStatus": false,
+  "backupFrequencyValue": "10",
+  "callingArchiverStatus": false,
+  "archiverTypeValue": "sevenZip",
+  "archiveFileTypeValue": "zip",
+  "archiverWinPathValue": "",
+  "archiverUnixPathValue": "",
+  "showRibbonIcon": true
+}
